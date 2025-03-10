@@ -91,7 +91,6 @@ Addressing these questions helps **restaurant owners optimize operations**, attr
 ## 🔧 Tools Used  
 💻 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 📊 **Jupyter Notebook** for coding and visualization  
-📈 **Power BI** (Optional for extended analysis)  
 
 ---
 
@@ -124,16 +123,14 @@ By integrating **customer sentiment, voting behavior, and pricing strategies**, 
 ---
 
 ## 📷 Visualizations & Reports  
-[![Power BI Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=power-bi)](#)  
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](#)  
 
-📌 Click on the links above to view the **notebooks and dashboards**.  
+📌 Click on the link above to view the **notebooks**.  
 
 ---
 
 ## 👨‍💻 Author  
 🔹 **[Nkiruka Ikwuneme]**  
 🔹 **Data Analyst | Excel | Python | Power BI | SQL**  
-🔹 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nkiruka-ikwuneme-48ab62104) | [Portfolio](https://github.com/nkiepearl)  
-
+🔹 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nkiruka-ikwuneme-48ab62104).
 ---
