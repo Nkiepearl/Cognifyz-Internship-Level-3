@@ -14,8 +14,6 @@
 - [🔧 Tools Used](#-tools-used)  
 - [🔑 Key Findings](#-key-findings)  
 - [📝 Note](#-note)  
-- [📷 Visualizations & Reports](#-visualizations--reports)  
-- [👨‍💻 Author](#-author)  
 
 ---
 
@@ -120,17 +118,4 @@ By integrating **customer sentiment, voting behavior, and pricing strategies**, 
 
 📌 **Restaurants that leverage these insights can optimize their services and enhance customer satisfaction.**  
 
----
-
-## 📷 Visualizations & Reports  
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](#)  
-
-📌 Click on the link above to view the **notebooks**.  
-
----
-
-## 👨‍💻 Author  
-🔹 **[Nkiruka Ikwuneme]**  
-🔹 **Data Analyst | Excel | Python | Power BI | SQL**  
-🔹 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nkiruka-ikwuneme-48ab62104).
 ---
